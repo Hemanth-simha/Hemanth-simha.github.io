@@ -1,1 +1,0 @@
-First open the documentation pdf on the documentation folder which contains all the instructions in setting up the website.
